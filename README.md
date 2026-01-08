@@ -107,3 +107,7 @@ This project was developed as part of a university software engineering / system
 
 ##  License
 This project is for academic and educational purposes.
+
+##  Author
+Developed by Serra Taşcı
+Computer Engineering Student
