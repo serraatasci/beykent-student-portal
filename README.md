@@ -92,4 +92,18 @@ All sensitive data access is handled through the business logic layer.
 
 ---
 
-## 📂 Repository Structure
+##  Project Status
+- System analysis completed
+- Database design finalized
+- Technical documentation and presentation prepared
+- Ready for future implementation and expansion
+
+---
+
+##  Academic Context
+This project was developed as part of a university software engineering / systems analysis course and focuses on **system design, documentation, and feasibility analysis**.
+
+---
+
+##  License
+This project is for academic and educational purposes.
